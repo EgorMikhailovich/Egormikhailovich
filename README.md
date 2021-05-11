@@ -38,4 +38,4 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 <img float="left" alt="GIF" src="/image/chat.png"  width="49%" height="400px" />     
-<img float="right"  src="/image/detail_git.png" width="49%" height="400px" />  
+<img alt="right"  src="/image/detail_git.png" width="49%" height="400px" />  
