@@ -1,10 +1,9 @@
 =====================================
- From: Pooh (51/DESKTOP-JVEPJH1/192.168.104.58/POOH-<5da4eb76ae061be6>)
-  at Tue May 11 18:03:40 2021
+WEB MASTER && Blockchain Developer 
 -------------------------------------
 <img align="right" alt="GIF" src="https://github.com/superJackiee/superJackiee/blob/main/image/giphy.gif" width="450" height="270" />
 
-💗 **Main Stack** 💗 
+💗 **My proposal** 💗 
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
