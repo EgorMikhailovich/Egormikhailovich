@@ -1,7 +1,3 @@
- =====================================
- From: Pooh (51/DESKTOP-JVEPJH1/192.168.104.58/POOH-<5da4eb76ae061be6>)
-  at Tue May 11 18:03:40 2021
--------------------------------------
 <img align="right" alt="GIF" src="https://github.com/superJackiee/superJackiee/blob/main/image/giphy.gif" width="450" height="270" />
 
 💗 **Main Stack** 💗 
