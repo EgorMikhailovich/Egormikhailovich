@@ -1,5 +1,4 @@
-=====================================
-WEB MASTER && Blockchain Developer 
+*********** WEB MASTER && Blockchain Developer ***********
 -------------------------------------
 <img align="right" alt="GIF" src="https://github.com/superJackiee/superJackiee/blob/main/image/giphy.gif" width="450" height="270" />
 
